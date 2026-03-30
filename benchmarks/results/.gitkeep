@@ -1,0 +1,2 @@
+# Benchmark result JSON files are saved here after running benchmark_runner.py
+# This directory is git-ignored to avoid committing large data files.
