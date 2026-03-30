@@ -1,4 +1,5 @@
 # Python
+# analysis/plots/*.png
 __pycache__/
 *.py[cod]
 *.pyo
@@ -22,8 +23,8 @@ env/
 benchmarks/results/*.json
 
 # Generated plots
-analysis/plots/*.png
-analysis/plots/*.pdf
+#analysis/plots/*.png
+#analysis/plots/*.pdf
 
 # IDE
 .vscode/
